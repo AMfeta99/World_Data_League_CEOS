@@ -6,3 +6,16 @@ We finished the international competition in third position among 29 teams of be
 
 WDL is a International data-driven competition that aims to develop long-lasting solutions for social impact challenges.
 https://www.worlddataleague.com/
+
+
+## Folder:
+- 1st_phase challenge: "Determining The Main Mobility Flows in the City of Lisbon Based on Mobile Device Data"
+- Semi_finals: "Avencas Marine Protected Area: Predict the future of the local ecosystem and its species"
+- Finals: "Energy communities inclusive of residents vulnerable to energy poverty"
+
+## Scripts/Files:
+Eachs folder contains:
+- Challenge brief
+- The presented submission by CEOS (implemented mainly in Python)
+- Some (additional) data
+- Data exploration/visualization
