@@ -1,4 +1,4 @@
-# World Data League [TEAM: CEOS]
+# World Data League 2023 [TEAM: CEOS]
 This repository contains the solution presented by the CEOS team throughout all phases of the WDL competition 2023. 
 We finished the international competition in third position among 29 teams of best minds in Data Science.
 
