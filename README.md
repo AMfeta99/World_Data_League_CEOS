@@ -1,1 +1,1 @@
-# World_Data_League_CEOS
+# World Data League [TEAM: CEOS]
