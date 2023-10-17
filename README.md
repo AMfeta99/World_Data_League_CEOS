@@ -6,6 +6,7 @@ We finished the international competition in third position among 29 teams of be
 
 WDL is a International data-driven competition that aims to develop long-lasting solutions for social impact challenges.
 https://www.worlddataleague.com/
+
 https://github.com/World-Data-League/wdl-solutions.git
 
 
